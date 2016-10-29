@@ -7,11 +7,11 @@ import {
   Content,
 } from 'native-base'
 
-import AppHeader from '../components/sample/AppHeader'
-import AppFooter from '../components/sample/AppFooter'
-import AppContent from '../components/sample/AppContent'
+import AppHeader from '../components/root/AppHeader'
+import AppFooter from '../components/root/AppFooter'
+import AppContent from '../components/root/AppContent'
 
-const sampleScene = () => (
+const sampleScene = (
   <Container>
     <Header>
       <AppHeader />
