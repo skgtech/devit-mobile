@@ -9,7 +9,7 @@ import {
 
 import AppContent from '../components/sponsors/AppContent'
 
-const src = () => (
+const src = (
   <Container>
     {/* <Header /> */}
     <Content>
