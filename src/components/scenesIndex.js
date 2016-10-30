@@ -1,11 +1,13 @@
 import schedule from '../scenes/schedule'
 import sponsors from '../scenes/sponsors'
+import speaker from '../scenes/speaker'
 
 const scenes = {}
 
 scenes.content = {
   schedule,
   sponsors,
+  speaker,
 }
 
 scenes.index = [
@@ -16,6 +18,10 @@ scenes.index = [
   {
     title: 'Sponsors',
     index: 1,
+  },
+  {
+    title: 'Speaker',
+    index: 2,
   },
 ]
 

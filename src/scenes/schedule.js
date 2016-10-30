@@ -18,7 +18,7 @@ const scheduleScene = (navigator) => {
     <Container>
       <Header>
         <Title>
-          Sessions
+          SCHEDULE
         </Title>
       </Header>
       <Content>
