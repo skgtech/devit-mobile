@@ -3,7 +3,7 @@ import { Title } from 'native-base'
 
 const AppHeader = () => (
   <Title>
-    Hello world
+    Sessions
   </Title>
 )
 
