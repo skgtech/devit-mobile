@@ -11,7 +11,7 @@ import {
 import AppContent from '../components/schedule/AppContent'
 import AppFooter from '../components/AppFooter'
 
-const sampleScene = (navigator) => {
+const scheduleScene = (navigator) => {
   console.log(navigator)
 
   return (
@@ -31,4 +31,4 @@ const sampleScene = (navigator) => {
   )
 }
 
-export default sampleScene
+export default scheduleScene
